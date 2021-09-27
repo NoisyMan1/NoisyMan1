@@ -20,6 +20,6 @@ Atualmente sou desenvolvedor Delphi/Ptyhon na empresa Nasajon Sistemas, onde rea
 
 ## - 📫 Linkedin
 
-[Linkedin](https://www.linkedin.com/in/ddiegoreis/)
+[Linkedin](https://www.linkedin.com/in/andré-gomes/)
 
-![Snake animation](https://github.com/Ddiegoreis/Ddiegoreis/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/andregguimaraes/andregguimaraes/blob/output/github-contribution-grid-snake.svg)
