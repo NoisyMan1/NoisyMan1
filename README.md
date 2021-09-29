@@ -10,7 +10,7 @@ Estudo Python através de alguns projetos pessoais que desenvolvo, afim de apren
 
 ## - 🕹️ Meu trabalho
 
-Atualmente sou desenvolvedor Delphi/Ptyhon na empresa Nasajon Sistemas, onde realizo o desenvolvimento de utilitários e soluções para os sitemas ERP.
+Atualmente sou desenvolvedor Delphi/Python na empresa Nasajon Sistemas, onde realizo o desenvolvimento de utilitários e soluções para os sitemas ERP.
 
 ## - 🧠 Tecnologias
 
